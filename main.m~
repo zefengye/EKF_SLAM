@@ -1,0 +1,5 @@
+clear all
+clc
+
+load('example_webmap.mat')
+ekfslam_sim();
